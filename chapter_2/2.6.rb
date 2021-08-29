@@ -16,3 +16,11 @@ end
 puts add(1, 2)
 
 #2.6.1
+#13-16のaddメソッドをreturnを使用して書く場合下のコードのようになる
+#Rubyではreturnを使用しない方が主流
+
+def add(a, b)
+  return a + b
+end
+puts add(1, 2)
+
