@@ -48,3 +48,5 @@ puts a[100]
 a = [1, 2, 3]
 puts a.size
 puts a.length
+
+#4.2.1
